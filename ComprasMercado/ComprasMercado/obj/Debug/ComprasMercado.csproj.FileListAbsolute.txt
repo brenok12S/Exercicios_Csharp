@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\ComprasMercado\ComprasMercado\bin\Debug\ComprasMercado.exe.config
+C:\Users\breno\source\repos\ComprasMercado\ComprasMercado\bin\Debug\ComprasMercado.exe
+C:\Users\breno\source\repos\ComprasMercado\ComprasMercado\bin\Debug\ComprasMercado.pdb
+C:\Users\breno\source\repos\ComprasMercado\ComprasMercado\obj\Debug\ComprasMercado.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\ComprasMercado\ComprasMercado\obj\Debug\ComprasMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\ComprasMercado\ComprasMercado\obj\Debug\ComprasMercado.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\ComprasMercado\ComprasMercado\obj\Debug\ComprasMercado.exe
+C:\Users\breno\source\repos\ComprasMercado\ComprasMercado\obj\Debug\ComprasMercado.pdb

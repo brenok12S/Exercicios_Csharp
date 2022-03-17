@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\CalculoSimples\CalculoSimples\bin\Debug\CalculoSimples.exe.config
+C:\Users\breno\source\repos\CalculoSimples\CalculoSimples\bin\Debug\CalculoSimples.exe
+C:\Users\breno\source\repos\CalculoSimples\CalculoSimples\bin\Debug\CalculoSimples.pdb
+C:\Users\breno\source\repos\CalculoSimples\CalculoSimples\obj\Debug\CalculoSimples.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\CalculoSimples\CalculoSimples\obj\Debug\CalculoSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\CalculoSimples\CalculoSimples\obj\Debug\CalculoSimples.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\CalculoSimples\CalculoSimples\obj\Debug\CalculoSimples.exe
+C:\Users\breno\source\repos\CalculoSimples\CalculoSimples\obj\Debug\CalculoSimples.pdb

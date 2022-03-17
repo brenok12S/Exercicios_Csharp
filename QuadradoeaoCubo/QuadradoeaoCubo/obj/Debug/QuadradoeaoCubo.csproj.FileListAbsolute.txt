@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\QuadradoeaoCubo\QuadradoeaoCubo\bin\Debug\QuadradoeaoCubo.exe.config
+C:\Users\breno\source\repos\QuadradoeaoCubo\QuadradoeaoCubo\bin\Debug\QuadradoeaoCubo.exe
+C:\Users\breno\source\repos\QuadradoeaoCubo\QuadradoeaoCubo\bin\Debug\QuadradoeaoCubo.pdb
+C:\Users\breno\source\repos\QuadradoeaoCubo\QuadradoeaoCubo\obj\Debug\QuadradoeaoCubo.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\QuadradoeaoCubo\QuadradoeaoCubo\obj\Debug\QuadradoeaoCubo.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\QuadradoeaoCubo\QuadradoeaoCubo\obj\Debug\QuadradoeaoCubo.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\QuadradoeaoCubo\QuadradoeaoCubo\obj\Debug\QuadradoeaoCubo.exe
+C:\Users\breno\source\repos\QuadradoeaoCubo\QuadradoeaoCubo\obj\Debug\QuadradoeaoCubo.pdb

@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\breno\source\repos\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\breno\source\repos\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\breno\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\breno\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.pdb

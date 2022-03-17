@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\Diferenca\Diferenca\bin\Debug\Diferenca.exe.config
+C:\Users\breno\source\repos\Diferenca\Diferenca\bin\Debug\Diferenca.exe
+C:\Users\breno\source\repos\Diferenca\Diferenca\bin\Debug\Diferenca.pdb
+C:\Users\breno\source\repos\Diferenca\Diferenca\obj\Debug\Diferenca.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\Diferenca\Diferenca\obj\Debug\Diferenca.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\Diferenca\Diferenca\obj\Debug\Diferenca.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\Diferenca\Diferenca\obj\Debug\Diferenca.exe
+C:\Users\breno\source\repos\Diferenca\Diferenca\obj\Debug\Diferenca.pdb

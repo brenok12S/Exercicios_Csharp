@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\Contagem de Cedulas\Contagem de Cedulas\bin\Debug\Contagem de Cedulas.exe.config
+C:\Users\breno\source\repos\Contagem de Cedulas\Contagem de Cedulas\bin\Debug\Contagem de Cedulas.exe
+C:\Users\breno\source\repos\Contagem de Cedulas\Contagem de Cedulas\bin\Debug\Contagem de Cedulas.pdb
+C:\Users\breno\source\repos\Contagem de Cedulas\Contagem de Cedulas\obj\Debug\Contagem de Cedulas.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\Contagem de Cedulas\Contagem de Cedulas\obj\Debug\Contagem de Cedulas.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\Contagem de Cedulas\Contagem de Cedulas\obj\Debug\Contagem de Cedulas.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\Contagem de Cedulas\Contagem de Cedulas\obj\Debug\Contagem de Cedulas.exe
+C:\Users\breno\source\repos\Contagem de Cedulas\Contagem de Cedulas\obj\Debug\Contagem de Cedulas.pdb

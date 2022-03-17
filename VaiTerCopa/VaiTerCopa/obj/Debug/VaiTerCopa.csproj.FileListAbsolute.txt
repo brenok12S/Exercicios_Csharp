@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\VaiTerCopa\VaiTerCopa\bin\Debug\VaiTerCopa.exe.config
+C:\Users\breno\source\repos\VaiTerCopa\VaiTerCopa\bin\Debug\VaiTerCopa.exe
+C:\Users\breno\source\repos\VaiTerCopa\VaiTerCopa\bin\Debug\VaiTerCopa.pdb
+C:\Users\breno\source\repos\VaiTerCopa\VaiTerCopa\obj\Debug\VaiTerCopa.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\VaiTerCopa\VaiTerCopa\obj\Debug\VaiTerCopa.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\VaiTerCopa\VaiTerCopa\obj\Debug\VaiTerCopa.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\VaiTerCopa\VaiTerCopa\obj\Debug\VaiTerCopa.exe
+C:\Users\breno\source\repos\VaiTerCopa\VaiTerCopa\obj\Debug\VaiTerCopa.pdb

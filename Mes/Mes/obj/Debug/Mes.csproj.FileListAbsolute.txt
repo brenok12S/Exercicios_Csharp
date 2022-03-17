@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\Mes\Mes\bin\Debug\Mes.exe.config
+C:\Users\breno\source\repos\Mes\Mes\bin\Debug\Mes.exe
+C:\Users\breno\source\repos\Mes\Mes\bin\Debug\Mes.pdb
+C:\Users\breno\source\repos\Mes\Mes\obj\Debug\Mes.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\Mes\Mes\obj\Debug\Mes.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\Mes\Mes\obj\Debug\Mes.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\Mes\Mes\obj\Debug\Mes.exe
+C:\Users\breno\source\repos\Mes\Mes\obj\Debug\Mes.pdb

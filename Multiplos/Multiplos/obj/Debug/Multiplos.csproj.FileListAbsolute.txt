@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\Multiplos\Multiplos\bin\Debug\Multiplos.exe.config
+C:\Users\breno\source\repos\Multiplos\Multiplos\bin\Debug\Multiplos.exe
+C:\Users\breno\source\repos\Multiplos\Multiplos\bin\Debug\Multiplos.pdb
+C:\Users\breno\source\repos\Multiplos\Multiplos\obj\Debug\Multiplos.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\Multiplos\Multiplos\obj\Debug\Multiplos.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\Multiplos\Multiplos\obj\Debug\Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\Multiplos\Multiplos\obj\Debug\Multiplos.exe
+C:\Users\breno\source\repos\Multiplos\Multiplos\obj\Debug\Multiplos.pdb

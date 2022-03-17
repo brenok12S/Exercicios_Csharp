@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\SomadePares\SomadePares\bin\Debug\SomadePares.exe.config
+C:\Users\breno\source\repos\SomadePares\SomadePares\bin\Debug\SomadePares.exe
+C:\Users\breno\source\repos\SomadePares\SomadePares\bin\Debug\SomadePares.pdb
+C:\Users\breno\source\repos\SomadePares\SomadePares\obj\Debug\SomadePares.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\SomadePares\SomadePares\obj\Debug\SomadePares.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\SomadePares\SomadePares\obj\Debug\SomadePares.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\SomadePares\SomadePares\obj\Debug\SomadePares.exe
+C:\Users\breno\source\repos\SomadePares\SomadePares\obj\Debug\SomadePares.pdb

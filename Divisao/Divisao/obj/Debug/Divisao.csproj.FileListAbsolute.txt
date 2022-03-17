@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\Divisao\Divisao\bin\Debug\Divisao.exe.config
+C:\Users\breno\source\repos\Divisao\Divisao\bin\Debug\Divisao.exe
+C:\Users\breno\source\repos\Divisao\Divisao\bin\Debug\Divisao.pdb
+C:\Users\breno\source\repos\Divisao\Divisao\obj\Debug\Divisao.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\Divisao\Divisao\obj\Debug\Divisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\Divisao\Divisao\obj\Debug\Divisao.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\Divisao\Divisao\obj\Debug\Divisao.exe
+C:\Users\breno\source\repos\Divisao\Divisao\obj\Debug\Divisao.pdb

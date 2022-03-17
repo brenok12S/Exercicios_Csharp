@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\Media3\Media3\bin\Debug\Media3.exe.config
+C:\Users\breno\source\repos\Media3\Media3\bin\Debug\Media3.exe
+C:\Users\breno\source\repos\Media3\Media3\bin\Debug\Media3.pdb
+C:\Users\breno\source\repos\Media3\Media3\obj\Debug\Media3.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\Media3\Media3\obj\Debug\Media3.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\Media3\Media3\obj\Debug\Media3.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\Media3\Media3\obj\Debug\Media3.exe
+C:\Users\breno\source\repos\Media3\Media3\obj\Debug\Media3.pdb
